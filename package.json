@@ -1,0 +1,15 @@
+{
+  "name": "pagina",
+  "version": "1.0.0",
+  "description": "Mi sitio web",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Proyecto estático - no requiere servidor'",
+    "build": "echo 'Build completado'",
+    "test": "echo 'No hay tests configurados'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
